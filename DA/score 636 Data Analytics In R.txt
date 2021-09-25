@@ -1,0 +1,34 @@
+Grading policy------
+Homework & computing lab exercise (10%)
+Quiz (20%)
+Term Project (20%)
+Midterm (20%)
+Final (30%)
+
+grades---------------
+Homework--------10%
+HW1 - 10/10
+HW2 - 10/10
+HW3 - 10/10
+HW4 - 9/10
+HW5 - 10/10
+HW Avg - 9.8/10 | sanjay-9.7
+Quiz-------------20%
+Q1 - 95/100
+Q2 - 86/100
+Q3 - 72/100
+Q4 - 65/100
+Quiz Avg - 15.9/20 | sanjay-16.2
+Projects------------20%
+P1 - 8.5/10
+P2 - 9/10
+Project avg - 17.5/20 | sanjay-17.5
+Midterm--------------20%
+mid - 100/100
+mid avg - 20/20 | sanjay-20
+Final---------------30%
+final - 79/100
+final avg - 23.7/30 | sanjay-24
+
+Final score - 86.9/100 | sanjay 87.4/100
+Final grade - A | sanjay A

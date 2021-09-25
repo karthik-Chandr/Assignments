@@ -1,0 +1,11 @@
+Data Analytics in r programming
+9/5/20
+-jupytor note books
+- project teams
+- quiz alternate week
+- all projects in r programming
+- final project in kaggle in r / python
+- midterm and final exam are open book
+
+9/12/20
+-https://finance.yahoo.com/quote/IBM/history?period1=1514782800&period2=1546232400&interval=1d&filter=history&frequency=1d

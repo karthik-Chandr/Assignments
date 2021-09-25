@@ -1,0 +1,8 @@
+Index	symbol	color
+
+1	A	red
+2	B	red
+3	C	red
+4	D	red
+5	E	red
+6	F	red
